@@ -1,0 +1,3 @@
+[submodule "snapkite-engine"]
+	path = snapkite-engine
+	url = /snapkite-engine/
